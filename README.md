@@ -1,1 +1,1 @@
-echo $SHELL
+pwd
