@@ -1,2 +1,2 @@
-cd #!/bin/bash
-echo "Hello, World"
+#!/bin/bash
+echo "hello, world" > 0-hello_world
